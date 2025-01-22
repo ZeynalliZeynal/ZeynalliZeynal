@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 A fullstack (mostly frontend) developer. I’m currently working on a personal project - https://todoist-liard-alpha.vercel.app/
+🔭 A fullstack (mostly frontend) developer. I’m currently working on a personal (project)[https://todoist-liard-alpha.vercel.app]
 
 
 ## 🌐 Socials:
